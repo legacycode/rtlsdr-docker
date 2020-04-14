@@ -2,6 +2,10 @@
 
 ## Supported tags and architectures
 
+This rtlsdr images supports following tags for e.g. Linux, Raspberry, Pine64 etc.:
+
+-   [`latest`](https://github.com/legacycode/rtlsdr-docker/blob/latest/Dockerfile) [`v0.6.0`](https://github.com/legacycode/rtlsdr-docker/blob/v0.6.0/Dockerfile) - stable rtlsdr builds
+
 This images supports following architectures:
 
 -   `amd64` - for most desktop processors
