@@ -4,7 +4,7 @@
 
 This rtlsdr images supports following tags for e.g. Linux, Raspberry, Pine64 etc.:
 
--   [`latest`](https://github.com/legacycode/rtlsdr-docker/blob/latest/Dockerfile) [`v0.6.0`](https://github.com/legacycode/rtlsdr-docker/blob/v0.6.0/Dockerfile) - stable rtlsdr builds
+-   [`latest`](https://github.com/legacycode/rtlsdr-docker/blob/latest/Dockerfile) [`0.6-1`](https://github.com/legacycode/rtlsdr-docker/blob/0.6-1/Dockerfile) - stable rtlsdr builds
 
 This images supports following architectures:
 
@@ -50,7 +50,7 @@ This [Dockerfile][1] is provided under the [MIT License][2].
 
 License information about rtlsdr can be found in the [official repository][3].
 
-The Docker images are based on the [Alpine Docker image][4]. Refer to the official [Alpine Docker image][4] page for license information.
+The Docker images are based on the [Debian Docker image][4]. Refer to the official [Debian Docker image][4] page for license information.
 
 [1]: https://github.com/legacycode/rtlsdr-docker
 
@@ -58,4 +58,4 @@ The Docker images are based on the [Alpine Docker image][4]. Refer to the offici
 
 [3]: https://osmocom.org/projects/rtl-sdr/repository/revisions/master/entry/COPYING
 
-[4]: https://hub.docker.com/_/alpine
+[4]: https://hub.docker.com/_/Debian
